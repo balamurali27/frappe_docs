@@ -19,7 +19,11 @@ Now logout and login using the new user id and password.
 
 ### 4.2 Creating Desk Page
 
-To add the documents and modules, you will have to create a desk page, you can do so from the **Desk Page**, doctype. Each page represents a module and includes the following:
+To add the documents and modules, you will have to create a desk page, you can do so from the **Desk Page**, doctype.
+
+> search "new desk page" in the awesome bar (ctrl-G)
+
+Each Desk Page represents a module and includes the following:
 
 1. A dashboard section for that particular module by default.
 1. Shortcuts for commonly visited masters and pages
